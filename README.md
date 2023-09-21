@@ -48,7 +48,7 @@ Make sure you have the following installed on your local development machine:
    
     ```bash
    npm run dev
-   The application will be available at http://localhost:3000.
+The application will be available at http://localhost:3000.
 
 ## 📝 How to Use
 Customize Content: Edit the React components and Tailwind CSS styles to tailor the landing page to your digital agency's needs.
