@@ -42,7 +42,6 @@ Make sure you have the following installed on your local development machine:
 2. **Install Dependencies**:
    
    ```bash
-   Copy code
    npm install
 
 3. **Start Development Server**:
@@ -59,7 +58,6 @@ Extend Functionality: Implement additional features or sections as required by y
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page for open tasks or submit a pull request.
 
-    ```bash
-   Make sure to update the placeholder (`your-username`) with your GitHub username.
-   You can replace your-username with your actual GitHub username in the clone URL and the License section. Additionally, you can add more details and sections to the README as needed for your project.
-   Please replace `your-username` with your actual GitHub username in the clone URL and the License section. You can also further customize the README to include specific details about your project.
+Make sure to update the placeholder (`your-username`) with your GitHub username.
+You can replace your-username with your actual GitHub username in the clone URL and the License section. Additionally, you can add more details and sections to the README as needed for your project.
+Please replace `your-username` with your actual GitHub username in the clone URL and the License section. You can also further customize the README to include specific details about your project.
