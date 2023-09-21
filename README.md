@@ -1,4 +1,4 @@
-# 🌐 Digital Agency Company Landing Page
+# 🌐 Digital Agency Company - Landing Page
 
 Create a stunning landing page for your digital agency with this project. Showcase your services, portfolio, and more to attract clients.
 
