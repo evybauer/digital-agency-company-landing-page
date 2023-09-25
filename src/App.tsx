@@ -17,7 +17,7 @@ import Footer from './components/Footer/Footer'
 const App = () => {
 
   return (
-    <>
+    <div className='bg-purple-900'>
       <Header/>
       <Hero/>
       <Services/>
@@ -32,7 +32,7 @@ const App = () => {
       <Newsletter/>
       <Contact/>
       <Footer/>
-    </>
+    </div>
   )
 }
 
