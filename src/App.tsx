@@ -14,10 +14,10 @@ import Newsletter from './components/Newsletter'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 
-function App() {
+const App = () => {
 
   return (
-    <div className='min-w-[360px] bg-purple-900'>
+    <>
       <Header/>
       <Hero/>
       <Services/>
@@ -32,7 +32,7 @@ function App() {
       <Newsletter/>
       <Contact/>
       <Footer/>
-    </div>
+    </>
   )
 }
 
