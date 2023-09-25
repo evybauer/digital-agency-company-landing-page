@@ -2,7 +2,7 @@
 
 Create a stunning landing page for your digital agency with this project. Showcase your services, portfolio, and more to attract clients.
 
-<img width="593" alt="DigitalMarketingAgencyLandingPage" src="https://github.com/evybauer/digital-agency-company-landing-page/assets/48938870/251cabd8-f018-4bc0-9412-28ed42c85a52">
+<img width="1178" alt="Screenshot 2023-09-25 at 4 45 02 PM" src="https://github.com/evybauer/digital-agency-company-landing-page/assets/48938870/fb4b3fcb-f3fc-4815-8948-620559518025">
 
 
 ## 🛠️ Tech Stack
