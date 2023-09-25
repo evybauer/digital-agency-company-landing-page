@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+vite-env.d.ts
+dist/
+vite.config.ts
+package-lock.json
